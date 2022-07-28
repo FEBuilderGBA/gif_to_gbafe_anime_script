@@ -1,0 +1,7 @@
+C:\dropbox\gif_to_gbafe_anime_script\gif_to_gbafe_anime_script\obj\x86\Debug\gif_to_gbafe_anime_script.Form1.resources
+C:\dropbox\gif_to_gbafe_anime_script\gif_to_gbafe_anime_script\obj\x86\Debug\gif_to_gbafe_anime_script.csproj.GenerateResource.Cache
+C:\dropbox\gif_to_gbafe_anime_script\gif_to_gbafe_anime_script\bin\Debug\gif_to_gbafe_anime_script.exe
+C:\dropbox\gif_to_gbafe_anime_script\gif_to_gbafe_anime_script\bin\Debug\gif_to_gbafe_anime_script.pdb
+C:\dropbox\gif_to_gbafe_anime_script\gif_to_gbafe_anime_script\obj\x86\Debug\gif_to_gbafe_anime_script.Properties.Resources.resources
+C:\dropbox\gif_to_gbafe_anime_script\gif_to_gbafe_anime_script\obj\x86\Debug\gif_to_gbafe_anime_script.exe
+C:\dropbox\gif_to_gbafe_anime_script\gif_to_gbafe_anime_script\obj\x86\Debug\gif_to_gbafe_anime_script.pdb
