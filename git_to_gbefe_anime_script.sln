@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "git_to_gbefe_anime_script", "git_to_gbefe_anime_script\git_to_gbefe_anime_script.csproj", "{3344D76B-8AE0-4195-B82E-45B40A05AE1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3344D76B-8AE0-4195-B82E-45B40A05AE1B}.Debug|x86.ActiveCfg = Debug|x86
+		{3344D76B-8AE0-4195-B82E-45B40A05AE1B}.Debug|x86.Build.0 = Debug|x86
+		{3344D76B-8AE0-4195-B82E-45B40A05AE1B}.Release|x86.ActiveCfg = Release|x86
+		{3344D76B-8AE0-4195-B82E-45B40A05AE1B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

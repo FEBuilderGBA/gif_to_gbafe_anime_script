@@ -1,0 +1,15 @@
+*.gba
+r
+git_to_gbefe_anime_script/bin/Debug/*.exe
+git_to_gbefe_anime_script/bin/Debug/*.pdb
+git_to_gbefe_anime_script/bin/Debug/*.png
+git_to_gbefe_anime_script/bin/Debug/*.bin
+git_to_gbefe_anime_script/bin/Debug/*.gba
+git_to_gbefe_anime_script/bin/Debug/*.dmp
+git_to_gbefe_anime_script/bin/Debug/app
+git_to_gbefe_anime_script/bin/Release
+git_to_gbefe_anime_script/bin/Debug/config/*.xml
+git_to_gbefe_anime_script/bin/Debug/config/etc/
+git_to_gbefe_anime_script/bin/Debug/config/log/
+git_to_gbefe_anime_script/obj
+.vs/
